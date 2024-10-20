@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/shuklaji_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shuklaji_10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-shukla-890076213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-shukla-890076213/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutoshshukla10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-shukla-890076213/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@ashutosh2001shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ashutosh2001shukla" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Ashutosh_061205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashutosh_061205/" height="30" width="40" /></a>
 </p>
