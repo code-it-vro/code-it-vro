@@ -1,4 +1,4 @@
-![Masterhead](./bannerImg.jpg)
+![Masterhead](./banner2.webp)
 <h1 align="center">Hi 👋, I'm Ashutosh shukla</h1>
 <h3 align="center">Skilled web developer proficient in Web-Dev Technologies and leveraging React.js to create captivating and dynamic user interfaces</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRjGbZsr2RG0z0ysBN48gqOlufQ40uLz4R1c3zuWF6_v6mlHKh0EDGI-yTh5-5G6E0Yw&usqp=CAU">
