@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-Js,Next-js,Devops**
 
-- 👨‍💻 One of my project [https://crypto-creek.netlify.app/](https://crypto-creek.netlify.app/)
+- 👨‍💻 My Portfolio [https://madebyashu.vercel.app/](https://madebyashu.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development**
 
